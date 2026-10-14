@@ -1,0 +1,4 @@
+#include "resources.h"
+IDI_GUARD_ACTIVE ICON "assets/active.ico"
+IDI_GUARD_RELEASED ICON "assets/released.ico"
+IDI_GUARD_ERROR ICON "assets/error.ico"
